@@ -76,18 +76,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 74,
-    "timeWeek": 315,
-    "timeMonth": 267,
-    "timeYear": 267,
-    "dailyMinutesDown": {}
+    "time": 258,
+    "timeDay": 69,
+    "timeWeek": 284,
+    "timeMonth": 258,
+    "timeYear": 258,
+    "dailyMinutesDown": {
+      "2022-01-13": 0
+    }
   },
   {
     "name": "Gitlab",
@@ -149,18 +151,16 @@
     "icon": "https://favicons.githubusercontent.com/clbin.com",
     "slug": "clbin",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 237,
     "timeDay": 217,
     "timeWeek": 211,
     "timeMonth": 237,
     "timeYear": 237,
-    "dailyMinutesDown": {
-      "2022-01-13": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
