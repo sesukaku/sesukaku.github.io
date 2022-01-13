@@ -148,19 +148,19 @@
     "url": "https://clbin.com",
     "icon": "https://favicons.githubusercontent.com/clbin.com",
     "slug": "clbin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 244,
-    "timeWeek": 214,
-    "timeMonth": 239,
-    "timeYear": 239,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 237,
+    "timeDay": 217,
+    "timeWeek": 211,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2022-01-13": 0
+      "2022-01-13": 9
     }
   }
 ]
