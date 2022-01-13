@@ -148,7 +148,7 @@
     "url": "https://clbin.com",
     "icon": "https://favicons.githubusercontent.com/clbin.com",
     "slug": "clbin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -159,6 +159,8 @@
     "timeWeek": 214,
     "timeMonth": 239,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-13": 0
+    }
   }
 ]
