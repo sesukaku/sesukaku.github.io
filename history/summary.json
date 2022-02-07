@@ -114,19 +114,19 @@
     "url": "https://bitbucket.org",
     "icon": "https://favicons.githubusercontent.com/bitbucket.org",
     "slug": "bitbucket",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 575,
-    "timeWeek": 328,
-    "timeMonth": 303,
-    "timeYear": 312,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 756,
+    "timeDay": 10887,
+    "timeWeek": 2937,
+    "timeMonth": 956,
+    "timeYear": 756,
     "dailyMinutesDown": {
-      "2022-02-07": 0
+      "2022-02-07": 25
     }
   },
   {
