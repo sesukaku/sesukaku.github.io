@@ -58,9 +58,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 247,
     "timeMonth": 214,
     "timeYear": 225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -78,18 +80,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
     "timeDay": 110,
     "timeWeek": 161,
     "timeMonth": 231,
     "timeYear": 234,
-    "dailyMinutesDown": {
-      "2022-03-01": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gitlab",
