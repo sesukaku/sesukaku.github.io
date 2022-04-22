@@ -1,7 +1,7 @@
 url: https://www.bing.com
-status: down
-code: 503
-responseTime: 2352
-lastUpdated: 2022-04-22T07:57:46.428Z
+status: up
+code: 200
+responseTime: 134
+lastUpdated: 2022-04-22T08:25:45.357Z
 startTime: Sun Dec 26 2021 20:37:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
