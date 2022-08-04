@@ -42,9 +42,9 @@
     "url": "https://yandex.com",
     "icon": "https://favicons.githubusercontent.com/yandex.com",
     "slug": "yandex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 954,
     "timeMonth": 916,
     "timeYear": 925,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-04": 0
+    }
   },
   {
     "name": "Wikipedia",
