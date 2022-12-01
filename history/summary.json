@@ -132,18 +132,19 @@
     "url": "https://bitbucket.org",
     "icon": "https://icons.duckduckgo.com/ip3/bitbucket.org.ico",
     "slug": "bitbucket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 324,
-    "timeDay": 254,
-    "timeWeek": 152,
-    "timeMonth": 170,
+    "timeDay": 278,
+    "timeWeek": 171,
+    "timeMonth": 175,
     "timeYear": 324,
     "dailyMinutesDown": {
+      "2022-12-01": 0,
       "2022-05-02": 18,
       "2022-02-07": 25
     }
@@ -155,18 +156,16 @@
     "slug": "gitpod",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
     "timeDay": 3143,
     "timeWeek": 1126,
     "timeMonth": 411,
     "timeYear": 160,
-    "dailyMinutesDown": {
-      "2022-12-01": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CLBIN",
