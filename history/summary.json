@@ -153,18 +153,20 @@
     "url": "https://gitpod.io",
     "icon": "https://icons.duckduckgo.com/ip3/gitpod.io.ico",
     "slug": "gitpod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 158,
-    "timeWeek": 143,
-    "timeMonth": 146,
-    "timeYear": 160,
-    "dailyMinutesDown": {}
+    "time": 177,
+    "timeDay": 4633,
+    "timeWeek": 1264,
+    "timeMonth": 426,
+    "timeYear": 184,
+    "dailyMinutesDown": {
+      "2023-02-23": 0
+    }
   },
   {
     "name": "CLBIN",
