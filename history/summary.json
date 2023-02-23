@@ -153,19 +153,19 @@
     "url": "https://gitpod.io",
     "icon": "https://icons.duckduckgo.com/ip3/gitpod.io.ico",
     "slug": "gitpod",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 4633,
-    "timeWeek": 1264,
-    "timeMonth": 426,
+    "timeDay": 3144,
+    "timeWeek": 1142,
+    "timeMonth": 418,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2023-02-23": 0
+      "2023-02-23": 17
     }
   },
   {
