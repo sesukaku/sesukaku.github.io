@@ -42,9 +42,9 @@
     "url": "https://yandex.com",
     "icon": "https://icons.duckduckgo.com/ip3/yandex.com.ico",
     "slug": "yandex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -54,6 +54,7 @@
     "timeMonth": 946,
     "timeYear": 952,
     "dailyMinutesDown": {
+      "2023-03-05": 0,
       "2022-09-29": 20,
       "2022-08-04": 38
     }
@@ -173,7 +174,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/clbin.com.ico",
     "slug": "clbin",
     "status": "up",
-    "uptime": "96.11%",
+    "uptime": "96.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
