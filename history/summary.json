@@ -137,17 +137,17 @@
     "url": "https://bitbucket.org",
     "icon": "https://icons.duckduckgo.com/ip3/bitbucket.org.ico",
     "slug": "bitbucket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "92.17%",
-    "uptimeWeek": "93.27%",
+    "uptimeDay": "93.37%",
+    "uptimeWeek": "93.26%",
     "uptimeMonth": "95.91%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 194,
-    "timeDay": 158,
-    "timeWeek": 155,
+    "timeDay": 159,
+    "timeWeek": 154,
     "timeMonth": 147,
-    "timeYear": 190,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2024-02-18": 47,
       "2024-02-17": 128,
@@ -184,8 +184,7 @@
       "2024-01-04": 18,
       "2024-01-02": 23,
       "2024-01-01": 18,
-      "2023-12-31": 18,
-      "2023-12-30": 28
+      "2023-12-31": 18
     }
   },
   {
@@ -221,7 +220,7 @@
     "uptime": "84.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "49.37%",
+    "uptimeMonth": "49.33%",
     "uptimeYear": "71.54%",
     "time": 212,
     "timeDay": 0,
@@ -229,7 +228,7 @@
     "timeMonth": 241,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2024-02-18": 864,
+      "2024-02-18": 883,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
