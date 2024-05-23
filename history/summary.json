@@ -26,19 +26,19 @@
     "url": "https://www.bing.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bing.com.ico",
     "slug": "bing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 5546,
-    "timeWeek": 1462,
-    "timeMonth": 447,
-    "timeYear": 144,
+    "time": 142,
+    "timeDay": 4504,
+    "timeWeek": 1569,
+    "timeMonth": 508,
+    "timeYear": 151,
     "dailyMinutesDown": {
-      "2024-05-23": 9
+      "2024-05-23": 0
     }
   },
   {
