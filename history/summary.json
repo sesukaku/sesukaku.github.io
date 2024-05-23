@@ -26,9 +26,9 @@
     "url": "https://www.bing.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bing.com.ico",
     "slug": "bing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 97,
     "timeMonth": 94,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-23": 0
+    }
   },
   {
     "name": "Yandex",
@@ -123,7 +125,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 379,
-    "timeDay": 9454,
+    "timeDay": 251,
     "timeWeek": 2604,
     "timeMonth": 865,
     "timeYear": 406,
@@ -208,7 +210,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/clbin.com.ico",
     "slug": "clbin",
     "status": "up",
-    "uptime": "84.55%",
+    "uptime": "84.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
