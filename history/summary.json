@@ -112,19 +112,19 @@
     "url": "https://gitlab.com",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.com.ico",
     "slug": "gitlab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 374,
-    "timeDay": 182,
-    "timeWeek": 289,
+    "timeDay": 235,
+    "timeWeek": 295,
     "timeMonth": 312,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2024-09-03": 0
+      "2024-09-03": 21
     }
   },
   {
