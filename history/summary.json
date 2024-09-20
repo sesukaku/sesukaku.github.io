@@ -44,18 +44,20 @@
     "url": "https://yandex.com",
     "icon": "https://icons.duckduckgo.com/ip3/yandex.com.ico",
     "slug": "yandex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1352,
+    "time": 1353,
     "timeDay": 1187,
     "timeWeek": 1472,
     "timeMonth": 1541,
     "timeYear": 1397,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-20": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -200,7 +202,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/clbin.com.ico",
     "slug": "clbin",
     "status": "up",
-    "uptime": "86.22%",
+    "uptime": "86.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.26%",
