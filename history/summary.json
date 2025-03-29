@@ -44,19 +44,19 @@
     "url": "https://yandex.com",
     "icon": "https://icons.duckduckgo.com/ip3/yandex.com.ico",
     "slug": "yandex",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1428,
-    "timeDay": 1615,
-    "timeWeek": 1321,
-    "timeMonth": 1423,
-    "timeYear": 1449,
+    "timeDay": 1397,
+    "timeWeek": 1303,
+    "timeMonth": 1415,
+    "timeYear": 1448,
     "dailyMinutesDown": {
-      "2025-03-29": 0
+      "2025-03-29": 12
     }
   },
   {
