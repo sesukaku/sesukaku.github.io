@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 449,
-    "timeWeek": 150,
-    "timeMonth": 115,
-    "timeYear": 110,
-    "dailyMinutesDown": {
-      "2024-05-01": 30
-    }
+    "timeDay": 126,
+    "timeWeek": 154,
+    "timeMonth": 109,
+    "timeYear": 109,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bing",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 159,
-    "timeDay": 92,
-    "timeWeek": 119,
-    "timeMonth": 135,
+    "timeDay": 76,
+    "timeWeek": 112,
+    "timeMonth": 134,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2024-05-23": 119
@@ -51,9 +49,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 1466,
-    "timeDay": 1232,
-    "timeWeek": 1648,
-    "timeMonth": 1881,
+    "timeDay": 2060,
+    "timeWeek": 1783,
+    "timeMonth": 1895,
     "timeYear": 1492,
     "dailyMinutesDown": {
       "2025-04-22": 28
@@ -71,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 66,
-    "timeWeek": 126,
-    "timeMonth": 184,
-    "timeYear": 209,
+    "timeDay": 366,
+    "timeWeek": 170,
+    "timeMonth": 190,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -89,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 467,
-    "timeWeek": 360,
-    "timeMonth": 318,
+    "timeDay": 391,
+    "timeWeek": 364,
+    "timeMonth": 319,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2024-08-17": 15
@@ -109,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 291,
-    "timeWeek": 308,
+    "timeDay": 279,
+    "timeWeek": 313,
     "timeMonth": 295,
     "timeYear": 343,
     "dailyMinutesDown": {
@@ -128,10 +126,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 159,
-    "timeWeek": 368,
-    "timeMonth": 373,
+    "time": 296,
+    "timeDay": 258,
+    "timeWeek": 385,
+    "timeMonth": 378,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2025-03-05": 17
@@ -149,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 340,
-    "timeWeek": 282,
-    "timeMonth": 250,
+    "timeDay": 258,
+    "timeWeek": 277,
+    "timeMonth": 255,
     "timeYear": 241,
     "dailyMinutesDown": {}
   },
@@ -161,15 +159,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/clbin.com.ico",
     "slug": "clbin",
     "status": "up",
-    "uptime": "88.62%",
+    "uptime": "88.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.48%",
     "uptimeYear": "99.11%",
     "time": 292,
-    "timeDay": 246,
-    "timeWeek": 275,
-    "timeMonth": 268,
+    "timeDay": 273,
+    "timeWeek": 289,
+    "timeMonth": 275,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2025-04-14": 1256,
